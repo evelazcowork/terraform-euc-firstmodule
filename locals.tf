@@ -1,0 +1,3 @@
+locals {
+  name = "Euc Velazco"
+}
